@@ -38,7 +38,7 @@
             };
             return {
                 ruleForm: {
-                    password: '111111',
+                    password: '123456',
                     username: 'langzi'
                 },
                 rules: {
